@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+@import url('./styles/normalize.css');
+
+@import url('./styles/vars.css');
+@import url('./styles/base.css');
+@import url('./styles/header.css');
+@import url('./styles/menu.css');
+@import url('./styles/novelties.css');
+@import url('./styles/popular.css');
+@import url('./styles/stocks.css');
+@import url('./styles/events.css');
+@import url('./styles/facilities.css');

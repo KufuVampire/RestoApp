@@ -1,0 +1,15 @@
+.facilities__item--first {
+	background-image: image-set(
+		url('../images/facilities/facilities-1.jpg') type("image/jpeg") 1x,
+		url('../images/facilities/facilities-1.webp') type("image/webp") 1x
+	);
+	background-size: cover;
+}
+
+.facilities__item--second {
+	background-image: image-set(
+		url('../images/facilities/facilities-2.jpg') type("image/jpeg") 1x,
+		url('../images/facilities/facilities-2.webp') type("image/webp") 1x
+	);
+	background-size: cover;
+}

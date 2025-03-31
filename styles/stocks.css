@@ -1,0 +1,15 @@
+.stocks__item--first {
+	background-image: image-set(
+		url('../images/stocks/stocks-1.jpg') type("image/jpeg") 1x,
+		url('../images/stocks/stocks-1.webp') type("image/webp") 1x
+	);
+	background-size: cover;
+}
+
+.stocks__item--second {
+	background-image: image-set(
+		url('../images/stocks/stocks-2.jpg') type("image/jpeg") 1x,
+		url('../images/stocks/stocks-2.webp') type("image/webp") 1x
+	);
+	background-size: cover;
+}

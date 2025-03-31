@@ -1,0 +1,20 @@
+:root {
+	--white: #ffffff;
+	--off-white: #F4F4F4;
+	--yellow: #FEDD2C;
+	--yellow-dark: #F9C201;
+	--gray: #555555;
+	--light-gray: #727272;
+	--black: #1C1C1C;
+
+	--black-60: rgba(0, 0, 0, 0.6);
+	--black-linear-gradiend: linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);
+
+	--green: #1DAA0F;
+	--blue: #0094E4;
+	--orange: #FC7D04;
+
+	--focus-color: #c2c2c2;
+
+	--minmax-width: 1440px;
+}
